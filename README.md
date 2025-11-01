@@ -55,4 +55,4 @@ Python: pandas, numpy, scikit-learn, matplotlib, seaborn, keras, tensorflow
 
 NLP: spaCy, VADER, TextBlob
 
-Data: Kaggle Tesla Tweets[https://www.kaggle.com/datasets/hindy51/tesla-tweets/data] & Yahoo Finance Stock Data
+Data: [Kaggle Tesla Tweets](https://www.kaggle.com/datasets/hindy51/tesla-tweets/data) & Yahoo Finance Stock Data
