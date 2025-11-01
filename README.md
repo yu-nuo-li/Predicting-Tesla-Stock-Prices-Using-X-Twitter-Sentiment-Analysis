@@ -4,7 +4,7 @@
 This project examines how public sentiment on social media impacts Tesla’s stock performance, given the significant online presence of its CEO, Elon Musk. We integrate sentiment analysis of Tesla-related tweets with traditional financial indicators to predict both next-day stock movements and future price levels. By combining behavioral data from X (formerly Twitter) with historical market data, we apply multiple machine learning models, including LSTM, SVM, Random Forest, and Linear Regression, to explore how real-time sentiment contributes to improved accuracy in financial forecasting.
 
 ## Methods
-!(methods)[stock_prediction_methods.png]
+![methods](stock_prediction_methods.png)
 
 ### Data Preprocessing
 Given the large volume and complexity of the raw datasets, extensive preprocessing was performed using Python libraries such as pandas, matplotlib, and spaCy. The steps are summarized as follows:
@@ -55,4 +55,4 @@ Python: pandas, numpy, scikit-learn, matplotlib, seaborn, keras, tensorflow
 
 NLP: spaCy, VADER, TextBlob
 
-Data: (Kaggle Tesla Tweets)[https://www.kaggle.com/datasets/hindy51/tesla-tweets/data] & Yahoo Finance Stock Data
+Data: Kaggle Tesla Tweets[https://www.kaggle.com/datasets/hindy51/tesla-tweets/data] & Yahoo Finance Stock Data
